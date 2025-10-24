@@ -1,0 +1,17 @@
+portfolio/
+├─ README.md                  # homepage del portfolio
+├─ /reviews/                  # revisioni siti/app
+│  ├─ README.md               # indice delle review
+│  └─ esempio-sito-1/
+│     ├─ report.md            # report della review
+│     └─ screenshots/         # immagini prima/dopo
+├─ /templates/                # file pronti all'uso
+│  ├─ checklist-ux.md
+│  ├─ template-report.md
+│  └─ template-readme.md
+├─ /projects/                 # tuoi progettini
+│  ├─ README.md               # indice progetti
+│  └─ bot-news-ai/            # (placeholder per quando lo fai)
+│     └─ README.md
+└─ /assets/                   # immagini/logo per il portfolio
+   └─ hero.png
